@@ -4,3 +4,5 @@ stepic
 cryptography
 requests
 streamlit-lottie
+flask
+gunicorn
